@@ -1,0 +1,7 @@
+[APP]
+XERO_CONSUMER_KEY               =
+XERO_CONSUMER_SECRET            =
+CALLBACK_URL                    = http://localhost:8000/oauth
+ACCOUNTS_AND_VENDORS_FILES_PATH = ../accounts_and_vendors
+VENDORS_FILE_NAME               = vendors.txt
+ACCOUNTS_FILE_NAME              = accounts.txt
